@@ -63,7 +63,6 @@ Lab2-for-Java
 С помощью метода toString() реализовано текстовое представление состояния объекта в формате "Стреляет пистолет с XX патронами".
 
 Тестирование.
-Функциональное.
 Задание 1.
 Время.
 Условие из задачи.
@@ -100,7 +99,6 @@ Lab2-for-Java
 <img width="804" height="285" alt="image" src="https://github.com/user-attachments/assets/80e8b5f1-b5a6-4841-b335-6b7e830216ab" />
 <img width="782" height="225" alt="image" src="https://github.com/user-attachments/assets/e2879783-7040-4458-a570-1d607c2368e4" />
 
-Нефункциональное.
 Задание 1.
 Время. Проверка на корректность вводимого числа.
 <img width="757" height="412" alt="image" src="https://github.com/user-attachments/assets/e1752d7e-62e1-4340-ad2c-81cfb08a882d" />
